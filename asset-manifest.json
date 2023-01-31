@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/catpetter/static/css/main.073c9b0a.css",
+    "main.js": "/catpetter/static/js/main.44735c91.js",
+    "static/js/787.7f80c23c.chunk.js": "/catpetter/static/js/787.7f80c23c.chunk.js",
+    "static/media/gatito.png": "/catpetter/static/media/gatito.d3f380d88466c1cfb7ec.png",
+    "static/media/gatitoAcariciado.png": "/catpetter/static/media/gatitoAcariciado.42f043e16be2076c0c25.png",
+    "index.html": "/catpetter/index.html",
+    "main.073c9b0a.css.map": "/catpetter/static/css/main.073c9b0a.css.map",
+    "main.44735c91.js.map": "/catpetter/static/js/main.44735c91.js.map",
+    "787.7f80c23c.chunk.js.map": "/catpetter/static/js/787.7f80c23c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.44735c91.js"
+  ]
+}
