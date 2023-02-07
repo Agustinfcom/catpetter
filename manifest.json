@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "catpetter",
+  "name": "catpetter",
   "icons": [
     {
       "src": "gatito.png",
@@ -16,6 +16,10 @@
       "src": "gatitoAcariciado.png",
       "type": "image/png",
       "sizes": "500x500"
+    },
+    {
+      "src":"clickSound.mp3",
+      "type":"sound/mp3"
     }
   ],
   "start_url": ".",

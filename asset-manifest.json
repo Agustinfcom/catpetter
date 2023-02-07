@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/catpetter/static/css/main.073c9b0a.css",
-    "main.js": "/catpetter/static/js/main.44735c91.js",
+    "main.js": "/catpetter/static/js/main.5f76a24b.js",
     "static/js/787.7f80c23c.chunk.js": "/catpetter/static/js/787.7f80c23c.chunk.js",
     "static/media/gatito.png": "/catpetter/static/media/gatito.d3f380d88466c1cfb7ec.png",
     "static/media/gatitoAcariciado.png": "/catpetter/static/media/gatitoAcariciado.42f043e16be2076c0c25.png",
+    "static/media/clickSound.mp3": "/catpetter/static/media/clickSound.2c40600d2475d488d52e.mp3",
     "index.html": "/catpetter/index.html",
     "main.073c9b0a.css.map": "/catpetter/static/css/main.073c9b0a.css.map",
-    "main.44735c91.js.map": "/catpetter/static/js/main.44735c91.js.map",
+    "main.5f76a24b.js.map": "/catpetter/static/js/main.5f76a24b.js.map",
     "787.7f80c23c.chunk.js.map": "/catpetter/static/js/787.7f80c23c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.44735c91.js"
+    "static/js/main.5f76a24b.js"
   ]
 }
